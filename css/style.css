@@ -10,8 +10,15 @@ body{
     width: 100vw;
     display: flex;
     flex-flow: row wrap;
-    background-color: black;
+    background-color: rgb(39, 59, 5);
 
+}
+header{
+    position: absolute;
+    z-index: 99;
+    width: 100%;
+    height: 75px;
+    background-color: rgb(59, 8, 243);
 }
 featured{
     border: 2px gray solid;

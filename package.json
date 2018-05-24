@@ -1,0 +1,13 @@
+{
+    "name": "Diplomado_Web",
+    "version": "0.0.1",
+    "description": "Ejemplo de un sitio de peliculas",
+    "dependencies": {},
+    "devDependencies": {
+        "browser-sync": "^2.24.4",
+        "connect-history-api-fallback": "^1.5.0",
+        "gulp": "^3.9.1",
+        "gulp-connect": "^5.5.0",
+        "gulp-sass": "^4.0.1"
+    }
+}
