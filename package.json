@@ -1,0 +1,25 @@
+{
+  "name": "pelis",
+  "version": "1.0.0",
+  "description": "diplomado web",
+  "main": "index.html",
+  "dependencies": {},
+  "devDependencies": {
+    "browser-sync": "^2.24.4",
+    "gulp": "^3.9.1",
+    "gulp-sass": "^4.0.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gustavo0326/Pelis.git"
+  },
+  "author": "Gustavo arcos\u001b[D\u001b[D\u001b[D\u001b[A",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gustavo0326/Pelis/issues"
+  },
+  "homepage": "https://github.com/gustavo0326/Pelis#readme"
+}
